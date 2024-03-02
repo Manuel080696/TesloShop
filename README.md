@@ -1,53 +1,36 @@
-<h1>Bienvenido/a al Repositorio del E-commerce con Next.js y Tailwind CSS 🛍️</h1>
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-<p>¡Hola! 👋 Gracias por visitar este humilde rincón de código donde he dado vida a un proyecto de comercio electrónico utilizando Next.js y Tailwind CSS. Aquí encontrarás una experiencia de compra intuitiva y estilos pulidos para llevar tu tienda en línea al siguiente nivel. 🚀</p>
+## Getting Started
 
-<h2>Características destacadas 🌟</h2>
+First, run the development server:
 
-<ul>
-<li>
-            <strong>Next.js Poderoso:</strong> Aprovechando la potencia de Next.js para una navegación fluida y rendimiento optimizado.
-        </li>
-        <li>
-            <strong>Diseño Impresionante con Tailwind CSS:</strong> Estilos elegantes y responsivos gracias a la magia de Tailwind CSS.
-        </li>
-        <li>
-            <strong>Interactividad:</strong> Experimenta con una interfaz de usuario dinámica para una experiencia de compra envolvente.
-        </li>
-        <li>
-            <strong>Datos Simulados:</strong> Se incluyen datos de ejemplo para que puedas explorar y probar fácilmente.
-        </li>
-    </ul>
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
 
-<h2>Cómo empezar 🚀</h2>
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-<ol>
-        <li>
-            <strong>Clona el Repositorio:</strong>
-            <pre>git clone https://github.com/tu-usuario/tu-e-commerce.git</pre>
-            <pre>cd tu-e-commerce</pre>
-        </li>
-        <li>
-            <strong>Instala las Dependencias:</strong>
-            <pre>npm install</pre>
-        </li>
-        <li>
-            <strong>Inicia la Aplicación:</strong>
-            <pre>npm run dev</pre>
-        </li>
-        <li>
-            <strong>Explora y Disfruta:</strong> Abre tu navegador y dirígete a <a href="http://localhost:3000">http://localhost:3000</a> para ver la magia.
-        </li>
-    </ol>
+You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-<h2>Contribuciones y Problemas 🤝</h2>
+This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-<p>¡Las contribuciones son más que bienvenidas! Si encuentras algún problema o tienes ideas para mejorar este proyecto, por favor, abre un problema o envía una solicitud de extracción. Juntos hacemos comunidad. 🌐</p>
+## Learn More
 
-<h2>Agradecimientos 💙</h2>
+To learn more about Next.js, take a look at the following resources:
 
-<p>Gracias por visitar este repositorio y mostrar interés en este proyecto. ¡Espero que encuentres útil esta implementación de comercio electrónico! Si tienes alguna pregunta o sugerencia, no dudes en compartirla.</p>
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-<p>¡Felices compras virtuales! 🛒✨</p>
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
+## Deploy on Vercel
 
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
