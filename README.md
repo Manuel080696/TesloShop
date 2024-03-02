@@ -2,7 +2,13 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+<<<<<<< HEAD
 First, run the development server:
+=======
+<p>Este proyecto ha sido desarrollado como parte de un <a href="https://www.youtube.com/playlist?list=PLCKuOXG0bPi3y7tz8Hq6itoi1vhPf6eVG" target="_blank" rel="noopener noreferrer">curso online</a>. Agradezco al creador, por ayudarme a comenzar con dos nuevos framework y darme la oportunidad de poder impulsar mi carrera como developer.🚀</p>
+
+<h2>Características destacadas 🌟</h2>
+>>>>>>> ad72b54aa8ac86d69b9305d949b868e85a3b32c0
 
 ```bash
 npm run dev
