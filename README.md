@@ -2,6 +2,8 @@
 
 <p>¡Hola! 👋 Gracias por visitar este humilde rincón de código donde he dado vida a un proyecto de comercio electrónico utilizando Next.js y Tailwind CSS. Aquí encontrarás una experiencia de compra intuitiva y estilos pulidos para llevar tu tienda en línea al siguiente nivel. 🚀</p>
 
+<p>Este proyecto ha sido desarrollado como parte de un <a href="https://www.youtube.com/playlist?list=PLCKuOXG0bPi3y7tz8Hq6itoi1vhPf6eVG" target="_blank" rel="noopener noreferrer">curso online</a>. Agradezco al creador, por ayudarme a comenzar con dos nuevos framework y darme la oportunidad de poder impulsar mi carrera como developer.🚀</p>
+
 <h2>Características destacadas 🌟</h2>
 
 <ul>
