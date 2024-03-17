@@ -1,3 +1,5 @@
+<img src="https://github.com/Manuel080696/PruebasManu/blob/main/logo.png" alt="logo" width=80px></img>
+
 <h1>Bienvenido/a al Repositorio del E-commerce con Next.js y Tailwind CSS 🛍️</h1>
 
 <p>¡Hola! 👋 Gracias por visitar este humilde rincón de código donde he dado vida a un proyecto de comercio electrónico utilizando Next.js y Tailwind CSS. Aquí encontrarás una experiencia de compra intuitiva y estilos pulidos para llevar tu tienda en línea al siguiente nivel. 🚀</p>
